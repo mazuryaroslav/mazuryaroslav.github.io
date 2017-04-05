@@ -1,0 +1,91 @@
+body,html{
+  margin: 0;
+  padding: 0;
+  font-family: 'Arimo', sans-serif;
+}
+.feedback{
+  background-image: url("pic/bgi.jpg");
+  background-size: cover;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 315px;
+  z-index: 4;
+}
+.header h2{
+ font-size: 40px;
+ font-family: 'Arimo', sans-serif;
+ font-style: normal;
+ color: #3170a8;
+ text-align: center;
+ margin-top: 58px;
+}
+.header span{
+ color:#ee8129;
+}
+.testimonials{
+
+  margin-top: 51px;
+}
+.womanJpg{
+  display: inline-block;
+  margin-left: 184px;
+  margin-bottom: 79px;
+  margin-right: 28px;
+
+}
+.manJpg{
+  display: inline-block;
+  margin-left: 45px;
+}
+.woman{
+  background-color: #f7f7f7;
+  display: inline-block;
+  width: 363px;
+  border: 1px solid #e0e0e0;
+  vertical-align: top;
+  height: 100px;
+}
+.man{
+  background-color:#f7f7f7;
+  display: inline-block;
+  width: 363px;
+  border: 1px solid #e0e0e0;
+  vertical-align: top;
+  margin-left: 28px;
+  height: 100px;
+}
+.namewoman{
+  font-size: 13px;
+  font-family: cursive;
+  margin-bottom: -9px;
+  float: left;
+  color: #3070a8;
+}
+.nameman{
+  font-size: 13px;
+  font-family: cursive;
+  margin-bottom: -9px;
+  float: left;
+  color: #3070a8;
+}
+.costumer{
+  font-size: 13px;
+  font-family: cursive;
+  margin-bottom: -9px;
+  display: inline-block;
+  float: right;
+  margin-right: 24px;
+  color: #3070a8;
+}
+.lorem{
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-size: 13px;
+  color: #666666;
+  margin-left: 18px;
+  margin-top: 24px;
+  margin-right: 18px;
+  border-top: 1px dotted #666666;
+}
